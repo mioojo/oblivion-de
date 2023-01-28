@@ -1,7 +1,7 @@
 echo Installing depends
 sudo apt-get install compiz compiz-plugins kupfer cairo-dock compton gnome-screenshot lwm vala-panel* hsetroot
-echo Installed!
-echo Installing.
+echo Installed.
+echo Installing oblivion.
 sudo mkdir /usr/local/share/oblivion
 sudo mv ./setup-sources/sh/oblivion.sh /usr/local/share/oblivion/
 sudo mv ./setup-sources/desktop/oblivion.desktop /usr/share/xsessions/
