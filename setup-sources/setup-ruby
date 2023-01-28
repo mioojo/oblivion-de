@@ -11,6 +11,7 @@ class Installer
 		system("sudo mv ./setup-sources/sh/oblivion.sh /usr/local/share/oblivion/")
 		system("sudo mv ./setup-sources/desktop/oblivion.desktop /usr/share/xsessions/")
 		system("sudo mv ./setup-sources/bg.png /usr/local/share/oblivion/")
+		system("chmod +x /usr/local/share/oblivion/oblivion.sh")
 	end
 	def self.finish
 		puts "OBLIVION BUILDED WITH SUCESS!"
