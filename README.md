@@ -1,7 +1,7 @@
 # Oblivion Desktop v1.0.5
 ## What is this?
 oblivion is a desktop enviornment for Low end machines!
-## Installatiom
+## Installation
 ```sh
 git clone https://github.com/mioojo/obliviom-de
 ```
