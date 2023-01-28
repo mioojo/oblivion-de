@@ -1,2 +1,10 @@
-#!/usr/bin/env sh
-sudo apt install ruby && chmod +x ./setup-sources/setup-ruby && ./setup-sources/setup-ruby
+echo Installing depends
+sudo apt-get install compiz compiz-plugins kupfer cairo-dock compton gnome-screenshot lwm vala-panel* hsetroot
+echo Installed!
+echo Installing.
+sudo mkdir /usr/local/share/oblivion
+sudo mv ./setup-sources/sh/oblivion.sh /usr/local/share/oblivion/
+sudo mv ./setup-sources/desktop/oblivion.desktop /usr/share/xsessions/
+sudo mv ./setup-sources/bg.png /usr/local/share/oblivion/
+chmod +x /usr/local/share/oblivion/oblivion.sh
+echo Done installing
