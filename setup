@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+sudo apt install ruby && chmod +x ./setup-sources/setup-ruby && ./setup-sources/setup-ruby
