@@ -1,11 +1,11 @@
 # Oblivion Desktop v1.0.5
 ## What is this?
-oblivion is a desktop environment for junk pcs!
+oblivion is a desktop enviornment for Low end machines!
 ## Installatiom
 ```sh
 git clone https://github.com/mioojo/obliviom-de
 ```
-* ./setup will do his work!
+* ./setup will setup the oblivion DE!
 ```sh
 cd oblivion-de/ && chmod +x ./setup && ./setup
 ```
