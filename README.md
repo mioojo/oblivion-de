@@ -1,4 +1,5 @@
-# Oblivion Desktop v1.0.5
+<img src="https://user-images.githubusercontent.com/115367097/215298875-e9a31453-3500-452b-8a42-92eded24f8ba.png" weight="200" height="200"/>
+
 ## What is this?
 oblivion is a desktop enviornment for Low end machines!
 ## Installation
