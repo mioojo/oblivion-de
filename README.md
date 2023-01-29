@@ -4,6 +4,10 @@
 oblivion is a desktop enviornment for Low end machines!
 ## Installation
 ```sh
+sudo apt install ghc
+```
+* GHC is obrigatory!
+```sh
 git clone https://github.com/mioojo/obliviom-de
 ```
 * ./setup will setup the oblivion DE!
