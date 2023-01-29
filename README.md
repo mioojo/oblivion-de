@@ -19,5 +19,9 @@ just run
 ```sh
 oblivion-update
 ```
+### If you wifi are not working please use
+```sh
+oblivion-wifi
+```
 ## Screenshots:
 ![Screenshot from 2023-01-29 12-02-52](https://user-images.githubusercontent.com/115367097/215335432-f7c1349e-65de-4418-9cb8-d5bf7374d226.png)
