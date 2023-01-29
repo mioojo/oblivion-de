@@ -20,4 +20,4 @@ just run
 oblivion-update
 ```
 ## Screenshots:
-![Screenshot from 2023-01-28 18-09-49](https://user-images.githubusercontent.com/115367097/215291249-a59be4bb-bf2f-4d22-940b-9fe5d129c271.png)
+![Screenshot from 2023-01-29 12-02-52](https://user-images.githubusercontent.com/115367097/215335432-f7c1349e-65de-4418-9cb8-d5bf7374d226.png)
